@@ -77,6 +77,11 @@ The workflow is designed to be executed manually or on a schedule.
 - `workflow.json`: The exported n8n workflow definition.
 - `README.md`: Project documentation and usage instructions.
 
+## Gallery
+<img width="553" height="309" alt="Screenshot 2025-08-31 110527" src="https://github.com/user-attachments/assets/15edf191-0299-4938-94a4-57ba0cffbeda" />
+<img width="1920" height="849" alt="Screenshot 2025-06-11 162730" src="https://github.com/user-attachments/assets/525adf92-7fe3-4e19-bf63-0432aae21d84" />
+
+
 ## License
 
 This project is provided for educational and personal use. Please check the terms of service for any APIs or news sources you use.
